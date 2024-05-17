@@ -1,5 +1,0 @@
-.eslintrc.json
-**/*.test.js
-**/*.md
-package.json
-package-lock.json
